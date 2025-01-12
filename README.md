@@ -5,7 +5,7 @@
 ### 1. Cloner le projet
 
 ```bash
-https://github.com/speedy237/demo-aubay-new.git
+git clone https://github.com/speedy237/demo-aubay-new.git
 cd demo-aubay-new
 ```
 
